@@ -6,6 +6,8 @@ function Main() {
         img: "https://images.dog.ceo/breeds/buhund-norwegian/hakon3.jpg",
         name: "Simba",
         gender: "masculine",
+        age: "6",
+        city: "Alcoletge"
     });
 
     function nextPet() {
