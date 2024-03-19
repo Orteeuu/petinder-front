@@ -7,7 +7,7 @@ function Main() {
         name: "Simba",
         gender: "masculine",
         age: "6",
-        city: "Alcoletge"
+        city: "Alcoletge"                   
     });
 
     function nextPet() {
